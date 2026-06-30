@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Shivraj1712/Solutions/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/Shivraj1712/Solutions/tree/master/0054-spiral-matrix) |
+| [0303-range-sum-query-immutable](https://github.com/Shivraj1712/Solutions/tree/master/0303-range-sum-query-immutable) |
 ## Matrix
 |  |
 | ------- |
@@ -19,4 +20,12 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shivraj1712/Solutions/tree/master/0001-two-sum) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Shivraj1712/Solutions/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Shivraj1712/Solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
