@@ -9,6 +9,7 @@
 | [0054-spiral-matrix](https://github.com/Shivraj1712/Solutions/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/Shivraj1712/Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Shivraj1712/Solutions/tree/master/0119-pascals-triangle-ii) |
+| [0238-product-of-array-except-self](https://github.com/Shivraj1712/Solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Shivraj1712/Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivraj1712/Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shivraj1712/Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -33,6 +34,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Shivraj1712/Solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Shivraj1712/Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivraj1712/Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shivraj1712/Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
