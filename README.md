@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/Shivraj1712/Solutions/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/Shivraj1712/Solutions/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/Shivraj1712/Solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Shivraj1712/Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Shivraj1712/Solutions/tree/master/0303-range-sum-query-immutable) |
 ## Matrix
 |  |
@@ -33,4 +34,5 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Shivraj1712/Solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Shivraj1712/Solutions/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
